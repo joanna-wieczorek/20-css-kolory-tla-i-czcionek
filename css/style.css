@@ -1,0 +1,62 @@
+body {
+    background-color: #F5F5F5);
+}
+
+#czesc_1 {
+    background-color: #FF00CC;
+    padding: 100px;
+}
+
+h1 {
+    color: #8B0000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraf_1 {
+    color: #B22222;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#czesc_2 {
+    background-color: #7b6cd3;
+    padding: 50px;
+}
+
+h2 {
+    color: #0000FF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraf_2 {
+    color: #0000CD;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#czesc_3 {
+    background-color: #6cb2d3;
+    padding: 30px;
+}
+
+ol {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#punkt_1 {
+    color: #FF00CC;
+}
+
+#punkt_2 {
+    color: #FF66CC;
+}
+
+#punkt_3 {
+    color: #FF99CC;
+}
+
+#punkt_4 {
+    color: #FFCCCC;
+}
+
+#punkt_5 {
+    color: #FFCC99;
+}
